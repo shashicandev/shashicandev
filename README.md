@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently building a **vacation home management platform** at Twimo using React, FastAPI & PostgreSQL
-- 👨‍💻 Led teams of **10–15 developers** across full-stack and mobile projects
-- ⚡ Passionate about **microservices architecture**, performance optimization, and developer culture
-- 📈 Proven track record: 40% reduction in critical bugs, 25% boost in API performance, 25% increase in organic search traffic
+-  Currently building a **vacation home management platform** at Twimo using React, FastAPI & PostgreSQL
+-  Led teams of **10–15 developers** across full-stack and mobile projects
+-  Passionate about **microservices architecture**, performance optimization, and developer culture
+-  Proven track record: 40% reduction in critical bugs, 25% boost in API performance, 25% increase in organic search traffic
 
 ---
 
